@@ -237,3 +237,8 @@ body {
 .footer__list-item{
     align-items: center;
 }
+
+.about__img{
+    width: 100%;
+    height: 100%;
+}
